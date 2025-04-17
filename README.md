@@ -1,2 +1,2 @@
 # github-issues-demo
-Demonstrate issue tracking in using github issues.
+Demonstrate issue tracking using github issues.
